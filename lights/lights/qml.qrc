@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomSlider.qml</file>
+        <file>CustomCheckBox.qml</file>
+        <file>assets/arm.mesh</file>
+        <file>assets/base.mesh</file>
+        <file>assets/forearm.mesh</file>
+        <file>assets/hand.mesh</file>
+        <file>assets/hand_grab_b.mesh</file>
+        <file>assets/hand_grab_b_hinge_1.mesh</file>
+        <file>assets/hand_grab_b_hinge_2.mesh</file>
+        <file>assets/hand_grab_t.mesh</file>
+        <file>assets/hand_grab_t_hinge_1.mesh</file>
+        <file>assets/hand_grab_t_hinge_2.mesh</file>
+        <file>assets/hand_hinge.mesh</file>
+        <file>assets/root.mesh</file>
+        <file>Robot.qml</file>
+        <file>images/-.png</file>
+        <file>images/+.png</file>
+        <file>images/ellipse_half.png</file>
+        <file>images/union-removebg-preview.png</file>
+        <file>images/icon.png</file>
+        <file>images/backg.jpg</file>
+        <file>images/purple.jpg</file>
+        <file>images/bckg.gif</file>
+    </qresource>
+</RCC>
